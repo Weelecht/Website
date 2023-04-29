@@ -1,0 +1,11 @@
+.grid-container {
+    width: 200;
+}
+
+
+div {
+    
+    display: inline-block;
+    border:1px solid black;
+
+}
